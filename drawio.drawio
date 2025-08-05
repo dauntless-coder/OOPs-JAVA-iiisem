@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="AUTMFMSpRBtjRfuXsjk6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-5" value="&lt;h1 style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot; face=&quot;Times New Roman&quot;&gt;OOPs Features&lt;/font&gt;&lt;/h1&gt;" style="html=1;shape=mxgraph.infographic.ribbonDoubleFolded;dx=25;dy=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-6" value="&lt;i&gt;Platform independent&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;JAVA is a platform independent programming language.&lt;/font&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#10739E;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-7" value="&lt;i&gt;Inheritance&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Process by which child class inherits the properties of its parent class.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#F2931E;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-8" value="&lt;i&gt;Abstraction&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Property which shows only essential features to user by hiding underlying implementation.&amp;nbsp; details.&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#AE4132;fontFamily=Helvetica;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="270" width="155" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-9" value="&lt;i&gt;Polymorphism&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Poly means- many forms. Provides a single interface for multiple implementations.&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#23445D;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="150" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s6JKyZBq7wyTbxaMzx-r-10" value="&lt;i&gt;Encapsulation&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Describes the process of&lt;/div&gt;&lt;div&gt;bundling data and methods into a single unit called- class.&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;strokeColor=none;fontSize=17;fontColor=#FFFFFF;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;fillColor=#12AAB5;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="150" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

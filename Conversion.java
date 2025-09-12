@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 public class Conversion {
     // read a number in metre and convert to feet and display the result
@@ -15,3 +16,9 @@ public class Conversion {
 
     }
 }
+=======
+public class Conversion {
+    // read a number in metre and convert to feet and display the result
+    
+}
+>>>>>>> f2972f1b7d14ee643501fb01885d78b9d852bad9

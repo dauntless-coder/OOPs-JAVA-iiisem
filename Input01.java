@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
 public class Input01 {
@@ -11,17 +11,4 @@ public class Input01 {
 
     }
 }
-=======
-import java.util.Scanner;
 
-public class Input01 {
-    //take input from user
-    public static void main(String [] args){
-        System.out.println("Enter your name: ");
-        Scanner sc = new Scanner(System.in);
-        String name = sc.nextLine();
-        System.out.println("Your name is: " + name);
-
-    }
-}
->>>>>>> f2972f1b7d14ee643501fb01885d78b9d852bad9
